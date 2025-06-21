@@ -1,0 +1,26 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+### Above combination will ignore all files without extension ###
+*credentials*
+*token*
+*secret*
+*DS_Store*
+*.DS_Store*
+*node_modules*
+*dump*
+*password*
+*session.vim*
+*third_party*
+*scratch*
+*log_file.txt*
+*logfile.txt*
+*logFile.txt*
+log.txt
+

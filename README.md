@@ -12,3 +12,5 @@ think it'll hold up:
     liability for the consequences of its use. Permission is hereby granted the 
     right to use, modify, re-distribute, or profit from the code provided herein,
     free of charge, to anyone.
+
+[Screen Recording 2025-06-20 at 8.44.16 PM.webm](https://github.com/user-attachments/assets/ba0e3c58-7ccc-4fbc-a2d0-0c306538764a)
